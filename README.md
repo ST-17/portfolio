@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Portfolio Website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+https://portfolio-st17.netlify.app/
+
+Developed using Nuxt.js, my portfolio website showcases my professional journey, blogs, and projects. This application features dynamic content rendering, smooth navigation, and a responsive design to provide an optimal user experience across devices. Explore my work, read about my expertise.
 
 ## Setup
 
@@ -37,39 +39,3 @@ yarn dev
 # bun
 bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
